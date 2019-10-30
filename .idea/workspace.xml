@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="4c9dc0cd-740f-4773-9862-2aea86de1a4b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/test2/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test2/test.js" afterDir="false" />
     </list>
 =======
     <list default="true" id="4c9dc0cd-740f-4773-9862-2aea86de1a4b" name="Default Changelist" comment="" />
 >>>>>>> master
+=======
+    <list default="true" id="4c9dc0cd-740f-4773-9862-2aea86de1a4b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hotfix/hotfix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> hotfix
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,6 +25,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <leaf>
       <file pinned="false" current-in-tab="false">
@@ -34,14 +42,25 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
               <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+=======
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hotfix/hotfix.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+>>>>>>> hotfix
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+<<<<<<< HEAD
 =======
     <leaf />
 >>>>>>> master
+=======
+>>>>>>> hotfix
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -58,9 +77,11 @@
       <list>
         <option value="$PROJECT_DIR$/new-test" />
         <option value="$PROJECT_DIR$/test2/test.js" />
+        <option value="$PROJECT_DIR$/hotfix/hotfix.js" />
       </list>
     </option>
   </component>
+<<<<<<< HEAD
 <<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6">
 =======
@@ -80,6 +101,13 @@
     <option name="y" value="-72" />
     <option name="width" value="1633" />
     <option name="height" value="949" />
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1928" />
+    <option name="y" value="-122" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+>>>>>>> hotfix
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -92,6 +120,11 @@
             <path>
               <item name="git-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="git-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="hotfix" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -128,20 +161,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572405006273</updated>
-      <workItem from="1572405007499" duration="433000" />
+      <workItem from="1572405007499" duration="1355000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="469000" />
 =======
     <option name="totallyTimeSpent" value="433000" />
 >>>>>>> master
+=======
+    <option name="totallyTimeSpent" value="1355000" />
+>>>>>>> hotfix
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-122" width="1936" height="1056" extended-state="7" />
+    <frame x="-1928" y="-122" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
+<<<<<<< HEAD
+=======
+      <window_info id="Favorites" side_tool="true" />
+>>>>>>> hotfix
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1601686" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -187,6 +229,13 @@
         <state>
           <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
 >>>>>>> master
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hotfix/hotfix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
